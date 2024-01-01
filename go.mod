@@ -19,7 +19,7 @@ require (
 	github.com/grpc-ecosystem/grpc-gateway v1.16.0
 	github.com/holiman/uint256 v1.2.1
 	github.com/improbable-eng/grpc-web v0.15.0
-	github.com/miguelmota/go-ethereum-hdwallet v0.1.1
+	github.com/miguelmota/go-ethereum-hdwallet v0.1.2
 	github.com/onsi/ginkgo/v2 v2.3.1
 	github.com/onsi/gomega v1.22.1
 	github.com/pkg/errors v0.9.1
